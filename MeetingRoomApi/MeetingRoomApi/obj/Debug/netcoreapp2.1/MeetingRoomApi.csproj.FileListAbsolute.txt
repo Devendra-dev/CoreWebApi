@@ -1,0 +1,16 @@
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\MeetingRoomApi.deps.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\MeetingRoomApi.runtimeconfig.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\MeetingRoomApi.runtimeconfig.dev.json
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\MeetingRoomApi.dll
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.csprojAssemblyReference.cache
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.RazorAssemblyInfo.cache
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.RazorAssemblyInfo.cs
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.AssemblyInfoInputs.cache
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.AssemblyInfo.cs
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.RazorTargetAssemblyInfo.cache
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\bin\Debug\netcoreapp2.1\MeetingRoomApi.pdb
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.dll
+D:\Devendra\CoreWebApi\MeetingRoomApi\MeetingRoomApi\obj\Debug\netcoreapp2.1\MeetingRoomApi.pdb
